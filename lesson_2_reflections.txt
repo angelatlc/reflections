@@ -1,0 +1,1 @@
+When you initialize a repository it creates hidden files which document any subsequent changes to the repository.  No commits are added, butit starts the master branch.
