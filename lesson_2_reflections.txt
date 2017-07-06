@@ -1,1 +1,7 @@
 When you initialize a repository it creates hidden files which document any subsequent changes to the repository.  No commits are added, butit starts the master branch.
+
+
+The staging area allows you to add files to the working directory, however if you make a mistake you can reset the directory before you commit to changes in the directory.  
+
+
+The staging can be used to make sure you have one commit per logical change.  When you make a change, add the file to the staging area, then commit the change.  You can continue working on the file, adding it, and making commits incrementally.
