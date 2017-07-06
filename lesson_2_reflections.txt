@@ -5,3 +5,8 @@ The staging area allows you to add files to the working directory, however if yo
 
 
 The staging can be used to make sure you have one commit per logical change.  When you make a change, add the file to the staging area, then commit the change.  You can continue working on the file, adding it, and making commits incrementally.
+
+
+Branches are helpful in keeping your history organized when, as an example you attempt to create a new feature or make a significant change but still want to keep track of the original version (master version).  This allows you to move back to a time before the changes were created or to move between multiple version of the software.  Until a branch is merged with the master branch, any of the changes in the new branch can be tested modified and thrown out without affecting master.
+
+
