@@ -10,3 +10,4 @@ The staging can be used to make sure you have one commit per logical change.  Wh
 Branches are helpful in keeping your history organized when, as an example you attempt to create a new feature or make a significant change but still want to keep track of the original version (master version).  This allows you to move back to a time before the changes were created or to move between multiple version of the software.  Until a branch is merged with the master branch, any of the changes in the new branch can be tested modified and thrown out without affecting master.
 
 
+Diagrams help you visualize the branch structure since not all commits are on all branches.  Commits have "parents" and some commits are not reachable from some branches.  Diagrams help us visualize which commits are reachable on a branch.
