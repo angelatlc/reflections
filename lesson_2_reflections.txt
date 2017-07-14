@@ -11,3 +11,8 @@ Branches are helpful in keeping your history organized when, as an example you a
 
 
 Diagrams help you visualize the branch structure since not all commits are on all branches.  Commits have "parents" and some commits are not reachable from some branches.  Diagrams help us visualize which commits are reachable on a branch.
+
+
+When to branches are merged together, all the commits from the two branches are mixed together, by timestamp.  We represent them as comming together to one commit in the diagram to show that both branches parent the new commit.
+
+
