@@ -1,1 +1,5 @@
 Using a remote repository might be useful for a number of reasons.  First, having redundant data so data isn't lost.  Second, when collaborating.  Third, when needing remote access to a project as when using various computers/different locations.
+
+
+Its a good idea to pull changes manually rather than have Git do it automatically.  This is because you may be working on changes which you decide not to incorporate into the github repository.  This allows you better version control.
+
