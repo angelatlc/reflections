@@ -3,3 +3,5 @@ Using a remote repository might be useful for a number of reasons.  First, havin
 
 Its a good idea to pull changes manually rather than have Git do it automatically.  This is because you may be working on changes which you decide not to incorporate into the github repository.  This allows you better version control.
 
+
+Repositories can be cloned.  That is, a repository on git hub can be copied to a local computer.  In addition, a repository on the local computer can be copied to a new folder on the same computer.  On the other hand, when a repository is copied on git hub itself, then this is considered a fork.  You can fork a repository on git hub and then clone it to your local computer.  Regardless of where a repository is, a branch can be created.  A branch allows you to work on differnt version of the same folder and then decide which changes to incorporate into the master branch.
